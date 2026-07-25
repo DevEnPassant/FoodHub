@@ -4,7 +4,7 @@ A premium food ordering web application built using React, Redux Toolkit, and Ta
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://food-hub-hazel-ten.vercel.app/).
+Check out the live demo of the application [here](https://food-hub-mauve.vercel.app/).
 
 ## Author
 
