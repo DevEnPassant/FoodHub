@@ -15,7 +15,7 @@ const Footer = () => {
   return (
     <div className="Footer tw-z-50 dark:tw-bg-slate-900 dark:tw-text-zinc-100">
       <div className="copy">
-        <i className="ri-copyright-line dark:tw-text-zinc-100"></i>Aashish | All Rights Reserved
+        <i className="ri-copyright-line dark:tw-text-zinc-100"></i>Aashish Kumar | All Rights Reserved
       </div>
       <div className="icons ">
         <Link
